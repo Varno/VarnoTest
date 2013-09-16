@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("test 2 change");
+            Console.WriteLine("Changes in test branch");
         }
     }
 }
