@@ -10,7 +10,6 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Changes in test branch  dsfsdfdsf sfdsfdsfds");
-        }
+            Console.WriteLine("Changes in test branch 232313213");        }
     }
 }
